@@ -22,10 +22,12 @@ jar {
     version =  '0.1.0'
 }
 
+// Build Repositories
 repositories {
     mavenCentral()
 }
 
+// Dependencies for the web application.
 dependencies {
     // tag::jetty[]
     compile("org.springframework.boot:spring-boot-starter-web") {
