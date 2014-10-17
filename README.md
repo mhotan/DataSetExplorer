@@ -1,6 +1,7 @@
 # README #
 
 # Socrata Web Connector #
+* Version: 0.0.1
 
 ### What is this Project in three sentences? ###
 
@@ -8,40 +9,51 @@ This is web application that is intended to shorten the time it takes for people
 
 ## Background ##
 
-### Who is Socrata? ###
+### Who is Socrata?
 
 Socrata is one of the most positive, impactful open data companies out there hosting open data for public sector organizations all over the world (but currently mostly in the United States).  If you want more information please visit their site [here](http://www.socrata.com/).
 
-### What is Open Data? ### 
+### What is Open Data?
 
 In simple terms, Data that can be available to everyone should be.  See the [wiki](http://en.wikipedia.org/wiki/Open_data) for a more detailed and articulate explanation.
 
-### What the heck is a Tableau? ### 
+### What the heck is a Tableau?
 
 Technically its the french word for table.  However, in this context we are refering to [Tableau Software](http://www.tableausoftware.com/).  Tableau Software is a data visualization company that seeks to help people see and understand their data.  Their desktop product allows users to explore their data and gain understand in fast and delightful ways.  They recently announced a new web based "Data Connection" at their last Tableau Conference Key Note see [here](https://tc14.tableausoftware.com/keynote) 1:17:00.  
 
-### Who would use this so called Socrata Connector ### 
+Caveat: At the time of starting this project the owner worked for Tableau Software.  This is project was taken on completey independently of either companies.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+### Who would use this so called Socrata Connector?
+
+Researchers, Students, Civic activists, Data Curious People, and Tableau Zen Masters. 
+
+### User Stories
+
+TODO
+
+### Tools
+
+* [Gradle](http://www.gradle.org/) Build and execution tool.
+* [Spring Boot](http://spring.io/guides/gs/spring-boot/) Spring powered application and service.
+* [AngularJS](https://angularjs.org/) Front End Web Client Framework.
+* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo) Used to write this README
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* TODO Summary of set up
+* TODO Configuration
+* TODO Dependencies
+* TODO Database configuration
+* TODO How to run tests
+* TODO Deployment instructions
 
 ### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
+* TODO Writing tests
+* TODO Code review
+* TODO Other guidelines
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+* Owner: Michael Hotan, michael.hotan@gmail.com
+* [Code for Seattle](http://codeforseattle.org/)
