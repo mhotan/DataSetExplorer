@@ -4,7 +4,7 @@
 
 ### What is this Project in three sentences? ###
 
-This is web application that is intended to shorten the time it takes for people to find Socrata Data Sources.  We want to empower users to find their data faster to answer interesting questions that pertain their domain.  This project will also target to be a Tableau Web Connector as soon as Tableau releases the API.
+This is web application that is intended to shorten the time it takes for people to find Socrata Data Sources.  We want to empower users to find their data faster to answer interesting questions that pertain to their domain.  This project will also target to be a Tableau Web Connector as soon as Tableau releases the API.
 
 ## Background ##
 
