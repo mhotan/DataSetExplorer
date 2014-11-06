@@ -28,10 +28,18 @@ Caveat: At the time of starting this project the owner worked for Tableau Softwa
 Researchers, Students, Civic activists, Data Curious People, and Tableau Zen Masters. 
 
 ### User Stories
-Hypothetical User Stories.  The purpose of this section is to provide examples of how this project will improve on the current process of discovering data.  
+Hypothetical User Stories that help build the scope and vision of this project.  
 
 #### Jane the Social Scientist
-Suppose Jane is a social science researcher.  Her job is to compare and contrast the crime activity statistics between different States with the USA.    
+Suppose Jane is a social science researcher.  Her current project is to compare and contrast the crime activity statistics between different States within the USA.  She uses the Socrata Connector to search for criminal data for different cities within the United States.  Instead of panning around Google diving into different different government websites, Jane is able to utilize SocrataConnector search functionality.  She is able to find crime data sets for different cities in the fraction of the time using a common search engine.
+
+#### Curious Joe
+
+TODO
+
+#### Amy, Andy, and Alex the business analytics team
+
+TODO
 
 ### Tools
 
