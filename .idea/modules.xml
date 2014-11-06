@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SocrataWebConnector.iml" filepath="$PROJECT_DIR$/SocrataWebConnector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DatasetExplorer.iml" filepath="$PROJECT_DIR$/DatasetExplorer.iml" />
     </modules>
   </component>
 </project>
-
