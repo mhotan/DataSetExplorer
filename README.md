@@ -103,7 +103,14 @@ git clone https://github.com/mhotan/DataSetExplorer.git
 
 If you are new to git or don't like the command line try [SourceTree](http://www.sourcetreeapp.com/)
 
-##### Clone Git Repository #####
+##### Running out of the box #####
+
+From the root directory (unix below but windows is virtually the same but with gradlew.bat)
+```
+./gradlew build && java -jar build/libs/dataset-explorer-[version].jar
+```
+
+Note: the name of the deliverable jar and version are defined in build.gradle
 
 ##### Requirements #####
 

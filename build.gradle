@@ -2,7 +2,7 @@
 apply plugin: 'java' // Annotates standard java application
 apply plugin: 'eclipse' // Generate files to work with Eclipse
 apply plugin: 'idea' // Generate files to work with Intellij
-apply plugin: 'spring-boot' // Spring Boot Server Application
+apply plugin: 'spring-boot' // Spring Boot Server org.mhotan.dsexplorer.Application
 
 version = '1.0'
 
@@ -18,7 +18,7 @@ buildscript {
 
 // Define the name of the Jar and Version.
 jar {
-    baseName = 'socrata-web-connector-boot'
+    baseName = 'dataset-explorer'
     version =  '0.1.0'
 }
 

@@ -1,3 +1,5 @@
+package org.mhotan.dsexplorer;
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.context.ApplicationContext;
@@ -9,7 +11,7 @@ import java.util.Arrays;
 /**
  * Created by Michael Hotan, michael.hotan@gmail.com, 2014.
  *
- * The Application that is used to start Web Service.
+ * The org.mhotan.dsexplorer.Application that is used to start Web Service.
  */
 @Configuration
 @EnableAutoConfiguration
