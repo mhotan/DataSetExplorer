@@ -28,8 +28,10 @@ Caveat: At the time of starting this project the owner worked for Tableau Softwa
 Researchers, Students, Civic activists, Data Curious People, and Tableau Zen Masters. 
 
 ### User Stories
+Hypothetical User Stories.  The purpose of this section is to provide examples of how this project will improve on the current process of discovering data.  
 
-TODO
+#### Jane the Social Scientist
+Suppose Jane is a social science researcher.  Her job is to compare and contrast the crime activity statistics between different States with the USA.    
 
 ### Tools
 
