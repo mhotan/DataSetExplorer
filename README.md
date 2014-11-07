@@ -105,10 +105,13 @@ If you are new to git or don't like the command line try [SourceTree](http://www
 
 ##### Running out of the box #####
 
-From the root directory (unix below but windows is virtually the same but with gradlew.bat)
+From the root directory command line:
+
 ```
 ./gradlew build && java -jar build/libs/dataset-explorer-[version].jar
 ```
+
+(unix below but windows is virtually the same but with gradlew.bat)
 
 Note: the name of the deliverable jar and version are defined in build.gradle
 
@@ -144,6 +147,8 @@ Currently building Alpha
 
 ##### Branching #####
 Make git branches are descriptive in what they are trying to achieve.
+IE. For fixing a bug branch do something like bugfix-broken_homepage
+For a new feature branch do something like bugfix-broken_homepage
 
 ##### Writing tests #####
 Follow Gradle Java Plugin format.  Make sure most classes has there own individual test.
